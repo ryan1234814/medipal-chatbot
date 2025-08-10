@@ -1,0 +1,11 @@
+streamlit
+flask
+requests
+pillow
+PyMuPDF
+base64io
+SpeechRecognition
+fuzzywuzzy
+spacy
+transformers
+torch
